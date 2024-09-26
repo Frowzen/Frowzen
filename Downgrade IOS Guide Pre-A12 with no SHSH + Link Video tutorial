@@ -343,7 +343,7 @@ launchd(8) launchd.plist(5) ldid(1)
 HISTORY
 The palera1n jailbreak was first written by Nebula and Mineek on September 26, 2022, as a shell script. Tweak support with DEVELOPMENT kernels are added on October 2, 2022. RELEASE kernel support is added on November 14, 2022. iOS 16 Support is added on December 13, 2022. Later, the first attempt to rewrite palera1n into C begins on January 01 2023. The palera1n utility described here is the second attempt, which first started on January 16, 2023, using checkra1n 1337 and the plush KPF.
 
-{GUIDE: Soon}
 
-{Possible fixes and missing dependencies: Soon}
+
+
 
